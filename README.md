@@ -2,6 +2,7 @@
 This repository contains a collection of resources and papers on Diffusion Models editing.
 
 ## General Image Editing
-- **Imagic: Text-Based Real Image Editing with Diffusion Models** \
-  [[Paper](https://arxiv.org/pdf/2210.09276)] [[Code](https://imagic-editing.github.io/)]
-  2023
+- **Imagic: Text-Based Real Image Editing with Diffusion Models (2023)** \
+  [[Paper](https://arxiv.org/pdf/2210.09276)] [[Code](https://imagic-editing.github.io/)] 
+  
+  
